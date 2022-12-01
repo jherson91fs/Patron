@@ -1,0 +1,6 @@
+Adapter\MotorElectrico.class
+Adapter\Motor.class
+Adapter\Aplicacion.class
+Adapter\MotorEconomico.class
+Adapter\MotorElectricoAdapter.class
+Adapter\MotorComun.class
